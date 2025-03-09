@@ -1,14 +1,12 @@
 # Excel Spreadsheet App 
 
-**(March 2023)**
 
-**[LIVE DEMO](https://anirudhapatil-1.github.io/Excel-Clone/)**
 
 ## Tech Stack: 
 
 **HTML, CSS, JavaScript, jQuery**
 
-![Excel Clone](https://github.com/AnirudhaPatil-1/Excel-Clone/assets/73242321/b3303b0e-2c60-4ac0-b80d-ba984187fff2)
+
 
 Welcome to my Excel Spreadsheet App, a journey into the heart of modern web development. Join me as I showcase this project, a fusion of HTML5, CSS3, **JavaScript**, and the dynamic flair of jQuery, all orchestrated to craft a functional and engaging application.
 
